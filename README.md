@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [ExitLag](https://www.exitlag.com) & [ZeroBot](https://zerobot.net)<br>- 🌱 I’m currently learning Rust<br>- 💬 Talk to me about reverse engineering & network<br>- 📫 How to reach me: Discord -> cjaker<br>- 😄 Pronouns push, pop<br>- ⚡ Fun fact: my phone is running a 24/7 bot in some games by using their network protocol only
+<br>- 🔭 I’m currently working on [ZeroBot](https://zerobot.net)<br>- 🌱 I’m currently learning Rust<br>- 💬 Talk to me about reverse engineering & network<br>- 📫 How to reach me: Discord -> cjaker<br>- 😄 Pronouns push, pop<br>- ⚡ Fun fact: my phone is running a 24/7 bot in some games by using their network protocol only
 
 
 # 💻 Tech Stack:
